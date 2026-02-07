@@ -1,5 +1,5 @@
 # 📈 About Me:
-I’m Prince Kumar, a cybersecurity-focused Computer Science student passionate about secure systems, cryptography, and ethical hacking concepts. I enjoy developing applications that prioritize security, privacy, and reliability.<br><br>My technical skill set includes Python, C/C++, Flask, MongoDB, and front-end technologies. I’ve built security-oriented projects such as authentication systems and access-control applications, and I’m constantly exploring ways to strengthen digital security through code.
+I’m Prince Kumar, a cybersecurity-focused Computer Science student passionate about secure systems, cryptography, and ethical hacking concepts. I enjoy developing applications that prioritize security, privacy, and reliability.
 
 
 ## 🌐 Socials:
