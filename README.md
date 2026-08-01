@@ -101,12 +101,10 @@ Hi, I'm **Prince Kumar**, a B.Tech Computer Science student passionate about Sof
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=presktok&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=presktok&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=presktok&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=presktok&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=presktok&theme=dark&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=presktok&theme=darkhub&no-frame=true&row=1&column=7" />
+<img src="https://streak-stats.demolab.com/?user=presktok&theme=dark&hide_border=true" />
 
 </div>
 
