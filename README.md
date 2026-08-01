@@ -20,6 +20,7 @@ Hi, I'm **Prince Kumar**, a B.Tech Computer Science student passionate about Sof
 - 📚 Practicing Data Structures & Algorithms for problem-solving
 - 🚀 Always building projects that solve real-world problems
 - 💬 Open to collaborating on open-source and innovative software projects
+- 🌍 Check out my portfolio: [my-portfolio-g2dw.vercel.app](https://my-portfolio-g2dw.vercel.app/)
 
 <br/>
 
@@ -32,6 +33,7 @@ Hi, I'm **Prince Kumar**, a B.Tech Computer Science student passionate about Sof
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-kumar-b45964244)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Princek11111)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Princedobriyal326@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%232563EB.svg?style=for-the-badge&logo=Web&logoColor=white)](https://my-portfolio-g2dw.vercel.app/)
 
 </div>
 
