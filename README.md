@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=220&section=header&text=Prince%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Cryptography%20%7C%20Ethical%20Hacking&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=220&section=header&text=Prince%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20%7C%20Cloud%20Computing%20%7C%20System%20Design&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Cybersecurity-focused+CS+Student;Building+Secure+%26+Reliable+Applications;Exploring+Cryptography+%26+Ethical+Hacking;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Building+Impactful+Digital+Products;React%2C+Node.js+%26+Cloud;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 </div>
