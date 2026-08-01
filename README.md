@@ -10,14 +10,16 @@
 
 <br/>
 
-## 📈 About Me
+## 👨💻 About Me
 
-I'm **Prince Kumar**, a cybersecurity-focused Computer Science student passionate about secure systems, cryptography, and ethical hacking concepts. I enjoy developing applications that prioritize **security, privacy, and reliability**.
+Hi, I'm **Prince Kumar**, a B.Tech Computer Science student passionate about Software Development and building impactful digital products. I enjoy designing and developing full-stack applications, writing clean and maintainable code, and continuously improving my development skills through hands-on projects.
 
-- 🔐 Interested in secure application development & offensive security
-- 🌱 Currently deepening my knowledge of cryptography and ethical hacking
-- 💬 Ask me about C/C++, Python, JavaScript, or web app security
-- ⚡ Fun fact: I like turning "it works" into "it works *securely*"
+- 💻 Software Development | Full-Stack Web Development
+- ⚛️ Working with React, Node.js, Express, Python & MongoDB
+- ☁️ Exploring Cloud Computing, System Design & DevOps
+- 📚 Practicing Data Structures & Algorithms for problem-solving
+- 🚀 Always building projects that solve real-world problems
+- 💬 Open to collaborating on open-source and innovative software projects
 
 <br/>
 
